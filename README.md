@@ -1,4 +1,4 @@
-Hyia!
+Hiya!
 
 I'm school kid from Australia exploring the world of coding and technology. This GitHub profile serves as a digital playground for both my personal projects and some of the coding assignments I encounter at school.
 

@@ -24,4 +24,4 @@ big into web + infra testing, love poking at stuff to see how it breaks
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aiden--mohan-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aiden-mohan/)
 [![HackerOne](https://img.shields.io/badge/HackerOne-aidenh1-black?logo=hackerone&logoColor=white)](https://hackerone.com/aidenh1)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-AidenMohan-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/AidenMohan)
-[![CTFtime](https://img.shields.io/badge/CTFtime-Profile-000000)](https://ctftime.org/user/270373)
+[![CTFtime](https://img.shields.io/badge/CTFtime-Profile)](https://ctftime.org/user/270373)

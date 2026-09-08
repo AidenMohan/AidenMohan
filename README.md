@@ -1,9 +1,27 @@
-Hiya!
+## hi, i'm aiden 👋
 
-I'm school kid from Australia exploring the world of coding and technology. This GitHub profile serves as a digital playground for both my personal projects and some of the coding assignments I encounter at school.
+aussie highschool student who's into security research.
+big into web + infra testing, love poking at stuff to see how it breaks
 
-You'll likely find a mix of things here – from small personal experiments and hobby projects to code related to my coursework. 
+---
 
-Feel free to take a look around. Any feedback or suggestions on my personal projects are always welcome.
+### stuff I do
 
-Thanks for stopping by! 🇦🇺
+- hunting bugs on hackerone, mostly web + infra targets
+- grinding rooms and paths on TryHackMe
+- occasionally jump into CTFs when i've got time
+
+---
+
+### cool stuff
+
+- found a DNS rebinding vuln in Rojo (8.1) — [CVE-2026-XXXXX](#) / [GHSA-XXXX-XXXX-XXXX](#) / [RUSTSEC-2026-0279](https://rustsec.org/advisories/RUSTSEC-2026-0279.html)
+
+---
+
+### find me here
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aiden--mohan-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aiden-mohan/)
+[![HackerOne](https://img.shields.io/badge/HackerOne-aidenh1-black?logo=hackerone&logoColor=white)](https://hackerone.com/aidenh1)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-AidenMohan-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/AidenMohan)
+[![CTFtime](https://img.shields.io/badge/CTFtime-Profile-000000)](https://ctftime.org/user/270373)

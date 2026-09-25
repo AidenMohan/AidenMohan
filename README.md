@@ -15,7 +15,7 @@ big into web + infra testing, love poking at stuff to see how it breaks
 
 ### cool stuff
 
-- found a DNS rebinding vuln in Rojo (8.1) — [CVE-2026-XXXXX](#) / [GHSA-XXXX-XXXX-XXXX](#) / [RUSTSEC-2026-0279](https://rustsec.org/advisories/RUSTSEC-2026-0279.html)
+- found a DNS rebinding vuln in Rojo (8.1) — [CVE-2026-97875](https://www.cve.org/CVERecord?id=CVE-2026-97875) / [GHSA-XXXX-XXXX-XXXX](#) / [RUSTSEC-2026-0279](https://rustsec.org/advisories/RUSTSEC-2026-0279.html)
 
 ---
 

@@ -16,6 +16,7 @@ big into web + infra testing, love poking at stuff to see how it breaks
 ### cool stuff
 
 - found a DNS rebinding vuln in Rojo (8.1) — [CVE-2026-97875](https://www.cve.org/CVERecord?id=CVE-2026-97875) / [GHSA-XXXX-XXXX-XXXX](#) / [RUSTSEC-2026-0279](https://rustsec.org/advisories/RUSTSEC-2026-0279.html)
+- found a SSRF vuln in webpage (8.1) — [CVE-2026-XXXX](#) / [GHSA-23hp-j76v-pcwj](https://github.com/orottier/webpage-rs/security/advisories/GHSA-23hp-j76v-pcwj) / [RUSTSEC-2026-XXXX](#) / [PoC (https://github.com/AidenMohan/webpage-cve-poc)
 
 ---
 
